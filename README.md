@@ -19,4 +19,15 @@ Structured Data stored in relational databases (SQL), spreadsheets (CSV, Excel) 
 
 
 
+## Tools
+-  SQL-Structured Query Language
+  
+   For querying, cleaning, and managing data from structured database
+   
+-  Power BI
+  
+   For creating interactive dashboards and generating the self-updating management reports. connected to databases and APIs to refresh the data automatically when new data becomes available
+  
+-  Jira
 
+   For tracking bugs, issues, and improvements in the decision engine's functionality
