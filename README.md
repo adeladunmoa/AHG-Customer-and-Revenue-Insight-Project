@@ -6,3 +6,17 @@ Client is a trading Concern,they have expended a huge portion of their budget in
 performance in recent times.However Project is to provide a self-updating decision engine (Management Insight Report 
 that can be updated when new data comes in) that would allow them to track performance across the sales 
 channels at the click of a button. 
+
+
+## Data Source
+Structured Data stored in relational databases (SQL), spreadsheets (CSV, Excel) for sales figures, inventory and financial data.
+
+-  Sales figures, customer transactions
+-  Product inventory levels
+-  Revenue and profit margins
+-  Customer demographics
+-  Marketing performance metrics (impressions, clicks, conversions)
+
+
+
+
