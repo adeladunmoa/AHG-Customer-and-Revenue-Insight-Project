@@ -31,3 +31,21 @@ Structured Data stored in relational databases (SQL), spreadsheets (CSV, Excel) 
 -  Jira
 
    For tracking bugs, issues, and improvements in the decision engine's functionality
+
+
+## Exploratory Data Analysis
+
+Available data was explored and analysed answerein underlisted questions;
+-  Total Sales
+-  Total cost
+-  Total  Customer by country region
+-  Total cost by by Education
+-  Profit Margin
+-  Sales by age range
+-  Sales by income group
+-  Sales Profit by product Category
+-  Sales trend
+
+## Reporting
+-  Dashboard
+  
